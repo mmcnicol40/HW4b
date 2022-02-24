@@ -31,7 +31,7 @@ console.log("guess matches", rndnum === nmyGuess);
 let newWord = "";
 let myCnt = 0;
 
-while ((rndnum !== nmyGuess) || (myGuess !== "STOP")) {
-  myGuess = prompt("Guess the random # I generated or STOP to exit");
-  if (newWord !== "STOP") {
-     console.log("STOP TYPED");
+//while ((rndnum !== nmyGuess) || (myGuess !== "STOP")) {
+// myGuess = prompt("Guess the random # I generated or STOP to exit");
+ // if (newWord !== "STOP") {
+  //   console.log("STOP TYPED");
